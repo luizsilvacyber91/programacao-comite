@@ -1,0 +1,6 @@
+nome| luiz
+nota_1| 58.00
+nota_2| 45.00
+nota_3| 36.00
+media| 46.33
+status_aluno| aprovado

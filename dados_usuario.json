@@ -1,0 +1,11 @@
+{
+    "nome": "Fulano",
+    "idade": 30,
+    "cidade": "São Paulo",
+    "habilidades": [
+        "Python",
+        "JSON",
+        "Programação"
+    ],
+    "ativo": true
+}

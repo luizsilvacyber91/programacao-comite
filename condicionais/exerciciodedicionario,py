@@ -1,0 +1,20 @@
+
+carro = {
+    "marca": "Ford",
+    "modelo": "Mustang",
+    "ano": 2022,
+    "cor": "Vermelho"
+}
+
+chaves_carro = list(carro.keys())
+
+print("Chaves:", chaves_carro)
+
+valores_carro = list(carro.values())
+
+print("Valores:", valores_carro)
+
+pares_carro = list(carro.items())
+
+print("Pares chave-valor:", pares_carro)
+ 

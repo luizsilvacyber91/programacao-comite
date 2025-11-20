@@ -1,0 +1,19 @@
+import os
+
+def remover_arquivo(nome_arquivo):
+    
+    try:
+        
+        os.remove(nome_arquivo):
+
+        print('arquivo apagado!')
+    except FileNOTFounderError:
+         
+         print('arquivo não existe ou ja foi apagado!!!')
+
+
+def main():
+
+    remover_arquivo(input('qual arquivo deseja apagar? -> '))
+
+main()

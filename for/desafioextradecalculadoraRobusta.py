@@ -1,0 +1,2 @@
+def obtem_operação():
+    
